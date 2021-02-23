@@ -46,31 +46,34 @@ There are two part of the document, the one is dealing with coding (Currently in
 6.	Write descrtipive, pronounceable and easily remembered names. Like '''MiniMapUIController''' instead '''CtrlUIMM'''
 6.	User abbreviation for unity UI Controls referencing in code. Like use BtnVersionSwitch not ButtonVersionSwitch. Here are some common abbreviations
 
-**Abbreviations	Standard UI Controls**
-btn	Button
-tgl	Toggle
-ddl	DropDownList
-img	Image
-lbl	Label
-pnl	Panel
-txt	InputField
-tbl	Table
+|Abbreviations	|Standard UI Controls|
+|---------------|---------------|
+|btn	|Button|
+|tgl	|Toggle|
+|ddl	|DropDownList|
+|img	|Image|
+|lbl	|Label|
+|pnl	|Panel|
+|txt	|InputField|
+|tbl	|Table|
 	
-**Abbreviations	Programming Constructs**
-cls		Class		
-Dlg		Delegate
-EventHanlder	EventHanlder
-I		Interface
+|Abbreviations	|Programming Constructs**|
+|---------------|---------------|
+|cls		|Class		|
+|Dlg		|Delegate|
+|EventHanlder	|EventHanlder|
+|I		|Interface|
 
-**Abbreviations	Programming Constructs**
-Cam	Camera
-PP	PostProcess
-go	GameObject
-gos	GameObjects
-Pos	Position
-Rot	Rotation
-Euler	Euler
-Lgh	Light
+|Abbreviations	|Programming Constructs|
+|---------------|---------------|
+|Cam	|Camera|
+|PP	|PostProcess|
+|go	|GameObject|
+|gos	|GameObjects|
+|Pos	|Position|
+|Rot	|Rotation|
+|Euler	|Euler|
+|Lgh	|Light|
 	
 
 7.	Keep the most common descriptor on the left: like.
