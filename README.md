@@ -1,23 +1,25 @@
 # UnityCSharpCodingStandards
 Coding Standards for C# and Unity3d Projects
 
- 
-بسم الله الرحمن الرحيم
+ بسم الله الرحمن الرحيم
+
 Table of Contents
-Coding Standards	1
-Naming:	1
-Coding Style:	2
-Coding Sequence:	3
-Refrences:	3
+
+Coding Standards
+Naming
+Coding Style
+Coding Sequence
+Refrences
 
  
 
-Unity/C# Coding Standards and Naming Convention
-What is: The document will provide you about the general guideline of coding and unity project organization.
-Why: We are want to make our code based consistent and easily maintainable.  
+**Unity/C# Coding Standards and Naming Convention**
+**What is:** The document will provide you about the general guideline of coding and unity project organization.
+**Why:** We are want to make our code based consistent and easily maintainable.  
 There are two part of the document, the one is dealing with coding the other one is dealing with project organization.
+
 Coding Standards
-Naming:
+**Naming:**
 1)	Never use Spaces in names.
 1.	Use camelCase for variable and method parameters
 1.	public GameObject activeCam;//right
