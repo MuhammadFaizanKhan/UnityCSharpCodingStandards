@@ -102,10 +102,10 @@ There are two part of the document, the one is dealing with coding (Currently in
 	```
 2. Always comment on top not at the end of the line.
 	```csharp
-	//right
-	public Vector3 posX;
-	//wrong
-	public Vector3 xPos;
+	//currently active camera position
+	public Vector3 camActivePos;//right
+	
+	public Vector3 camActivePos; //currently active camera position. //This is wrong
 	```
 	
 3. It is better to add comments for each variable but must add comment on those varaiable that required some extra explanation. 
