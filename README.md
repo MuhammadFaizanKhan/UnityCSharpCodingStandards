@@ -3,13 +3,13 @@ Coding Standards for C# and Unity3d Projects
 
  بسم الله الرحمن الرحيم
 
-Table of Contents
+# Table of Contents
 
-Coding Standards
-Naming
-Coding Style
-Coding Sequence
-Refrences
+## Coding Standards
+### Naming
+### Coding Style
+### Coding Sequence
+### Refrences
 
  
 
@@ -18,8 +18,8 @@ Refrences
 **Why:** We are want to make our code based consistent and easily maintainable.  
 There are two part of the document, the one is dealing with coding the other one is dealing with project organization.
 
-Coding Standards
-**Naming:**
+# Coding Standards
+## Naming:
 1)	Never use Spaces in names.
 1.	Use camelCase for variable and method parameters
 1.	public GameObject activeCam;//right
@@ -80,7 +80,7 @@ Lgh	Light
 11.	For inspector, Use Header[] for a collection of variable or a variable required more explanation.
 12.	Events are associated with actions. Therefore, events are name with verbs: TiggerOccured, ButtonClicked, SceneLoaded etc
 13.	If a method run in response of an event use EventHandler as suffix. ClickEventHandler, TriggerEventHandler
-Comments:
+## Comments:
 1.	Must add summary of the class the show three things: Author, Purpose, Decencies, Create Date
 2.	/// <summary>
 3.	/// Author: Ali
@@ -95,17 +95,17 @@ Comments:
 3.	
 4.	public Vector3 xPos;//wrong
 3. It is better to add comments for each variable but must add comment on those varaiable that required some extra explanation. 
-Coding Sequence:
+## Coding Sequence:
 1.	Declare member variable at the top of the class and if the member is static then, place it on top most.
 2.	User specific #Regions for placing the code. The sequence will be Vars Region, UnityEvents Region, Custom Methods, and Custom EventHandlers.
-Coding Style:
+## Coding Style:
 1.	Must mention access modified even if the variable is private.
 2.	Don use public variable if they are not required to access from other classes. User Serialized filed.
 3.	Use louse coupling approaches in coding.
 
 
 
-References:
+# References:
 1.	https://www.c-sharpcorner.com/UploadFile/8a67c0/C-Sharp-coding-standards-and-naming-conventions/
 2.	https://forum.unity.com/threads/unity-terminology-acronyms-translations.132458/
 3.	http://devfun-lab.com/1645
