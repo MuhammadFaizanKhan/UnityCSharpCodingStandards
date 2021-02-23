@@ -6,10 +6,11 @@ Coding Standards for C# and Unity3d Projects
 # Table of Contents
 
 ## Coding Standards
-### [Naming](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards#naming-1)
-### [Coding Style](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#coding-style-1)
-### [Coding Sequence](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#coding-sequence-1)
-### [Refrences](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#references)
+1. ### [Naming](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards#naming-1)
+2. ### [Comments](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#comments)
+3. ### [Coding Style](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#coding-style-1)
+4. ### [Coding Sequence](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#coding-sequence-1)
+5. ### [Refrences](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#references)
 
  
 
