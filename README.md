@@ -57,14 +57,14 @@ There are two part of the document, the one is dealing with coding (Currently in
 |txt	|InputField|
 |tbl	|Table|
 	
-|Abbreviations	|Programming Constructs**|
+|Abbreviations	|Programming Constructs|
 |---------------|---------------|
 |cls		|Class		|
 |Dlg		|Delegate|
 |EventHanlder	|EventHanlder|
 |I		|Interface|
 
-|Abbreviations	|Programming Constructs|
+|Abbreviations	|GameObjects or MonoBehaviour Construcuts|
 |---------------|---------------|
 |Cam	|Camera|
 |PP	|PostProcess|
@@ -125,4 +125,4 @@ There are two part of the document, the one is dealing with coding (Currently in
 2.	https://forum.unity.com/threads/unity-terminology-acronyms-translations.132458/
 3.	http://devfun-lab.com/1645
 4.	https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php
-5.	
+	
