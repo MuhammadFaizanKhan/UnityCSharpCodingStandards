@@ -27,7 +27,7 @@ There are two part of the document, the one is dealing with coding (Currently in
 	public GameObject ActiveCam;//wrong
 	```
 3.	Use PascalCase for methods, namespace, class, struct, properties, Enum  name.
-	```
+	```csharp
 	//Right
 	public class CamController : MonoBehaviour  
 	{  
@@ -73,7 +73,7 @@ Lgh	Light
 	
 
 7.	Keep the most common descriptor on the left: like.
-	```
+	```csharp
 	public Vector3 posX;//right
 	public Vector3 xPos;//wrong
 	```
@@ -87,7 +87,7 @@ Lgh	Light
 
 ## Comments:
 1.	Must add summary of the class the show three things: Author, Purpose, Decencies, Create Date
-	```
+	```csharp
 	/// <summary>
 	/// Author: Ali
 	/// Create Date: 2021-02-02
@@ -97,7 +97,7 @@ Lgh	Light
 	public class CameraController : MonoBehaviour
 	```
 2. Always comment on top not at the end of the line.
-	```
+	```csharp
 	//right
 	public Vector3 posX;
 	//wrong
