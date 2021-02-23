@@ -22,7 +22,7 @@ There are two part of the document, the one is dealing with coding (Currently in
 ## Naming:
 1.	Never use Spaces in names.
 2.	Use camelCase for variable and method parameters
-	```
+	```csharp
 	public GameObject activeCam;//right
 	public GameObject ActiveCam;//wrong
 	```
