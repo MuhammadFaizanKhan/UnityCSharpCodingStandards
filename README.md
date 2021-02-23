@@ -22,12 +22,12 @@ There are two part of the document, the one is dealing with coding (Currently in
 ## Naming:
 1.	Never use Spaces in names.
 2.	Use camelCase for variable and method parameters
-	'''
+	```
 	public GameObject activeCam;//right
 	public GameObject ActiveCam;//wrong
-	'''
+	```
 3.	Use PascalCase for methods, namespace, class, struct, properties, Enum  name.
-	'''
+	```
 	//Right
 	public class CamController : MonoBehaviour  
 	{  
@@ -38,7 +38,7 @@ There are two part of the document, the one is dealing with coding (Currently in
 	{  
 	   //...
 	}
-	'''
+	```
 
 4.	Use PascalCase for custom file- and folder names, like this: UtilityClasses, ProjectIcons. Do not use spaces, underscores, or hyphens, with one exception (see Naming Different Aspects of the Same Thing).
 5.	Use namespace for Project specific classes.
@@ -73,10 +73,10 @@ Lgh	Light
 	
 
 7.	Keep the most common descriptor on the left: like.
-'''
+	```
 	public Vector3 posX;//right
 	public Vector3 xPos;//wrong
-	'''
+	```
 
 8.	Some names form a sequence. Use numbers in these names, for example, PathNode0, PathNode1. Always start with 0, not 1.
 9.	Write descriptive name like BtnPressed() instead Pressed().
@@ -87,7 +87,7 @@ Lgh	Light
 
 ## Comments:
 1.	Must add summary of the class the show three things: Author, Purpose, Decencies, Create Date
-	'''
+	```
 	/// <summary>
 	/// Author: Ali
 	/// Create Date: 2021-02-02
@@ -95,14 +95,14 @@ Lgh	Light
 	/// Dependencies (if any): CameraScript, CameraUI_Link, ScriptReference
 	/// </summary>
 	public class CameraController : MonoBehaviour
-	'''
+	```
 2. Always comment on top not at the end of the line.
-	'''
+	```
 	//right
 	public Vector3 posX;
 	//wrong
 	public Vector3 xPos;
-	'''
+	```
 	
 3. It is better to add comments for each variable but must add comment on those varaiable that required some extra explanation. 
 
