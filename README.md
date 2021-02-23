@@ -6,7 +6,7 @@ Coding Standards for C# and Unity3d Projects
 # Table of Contents
 
 ## Coding Standards
-### Naming(https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards#naming-1)
+### [Naming](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards#naming-1)
 ### Coding Style
 ### Coding Sequence
 ### Refrences
