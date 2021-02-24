@@ -119,6 +119,9 @@ There are two part of the document, the one is dealing with coding (Currently in
 2.	Don use public variable if they are not required to access from other classes. User Serialized filed.
 3.	Use louse coupling approaches in coding.
 
+# UI:
+1. Disable the canvas if you are not using it.
+2. Disable the UI element if it outside of the screen.
 
 # References:
 1.	https://www.c-sharpcorner.com/UploadFile/8a67c0/C-Sharp-coding-standards-and-naming-conventions/
