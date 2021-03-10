@@ -1,7 +1,7 @@
+ بسم الله الرحمن الرحيم
+
 # UnityCSharpCodingStandards (in progress)
 Coding Standards for C# and Unity3d Projects
-
- بسم الله الرحمن الرحيم
 
 # Table of Contents
 
