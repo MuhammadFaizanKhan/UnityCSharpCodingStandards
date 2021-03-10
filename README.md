@@ -56,7 +56,7 @@ There are two part of the document, the one is dealing with coding (Currently in
 |img	|Image|
 |lbl	|Label|
 |pnl	|Panel|
-|txt	|InputField|
+|	|InputField|
 |tbl	|Table|
 	
 |Abbreviations	|Programming Constructs|
