@@ -10,7 +10,9 @@ Coding Standards for C# and Unity3d Projects
 2. ### [Comments](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#comments)
 3. ### [Coding Style](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#coding-style-1)
 4. ### [Coding Sequence](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#coding-sequence-1)
-5. ### [Refrences](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#references)
+5. ### [Script Basic Template](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards#basic-template)
+6. ### [Refrences](https://github.com/MuhammadFaizanKhan/UnityCSharpCodingStandards/blob/master/README.md#references)
+
 
  
 
@@ -119,11 +121,7 @@ There are two part of the document, the one is dealing with coding (Currently in
 2.	Don use public variable if they are not required to access from other classes. User Serialized filed.
 3.	Use louse coupling approaches in coding.
 
-# UI:
-1. Disable the canvas if you are not using it.
-2. Disable the UI element if it outside of the screen.
-
-# Basic template
+## Script Basic Template
 ```csharp
 
 using UnityEngine;
@@ -182,6 +180,10 @@ namespace CodingStandards
     }
 }
 ```
+
+# UI:
+1. Disable the canvas if you are not using it.
+2. Disable the UI element if it outside of the screen.
 
 # References:
 1.	https://www.c-sharpcorner.com/UploadFile/8a67c0/C-Sharp-coding-standards-and-naming-conventions/
