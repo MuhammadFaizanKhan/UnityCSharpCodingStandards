@@ -122,6 +122,7 @@ There are two part of the document, the one is dealing with coding (Currently in
 3.	Use louse coupling approaches in coding.
 
 ## Script Basic Template
+Please check script samples of the project.
 ```csharp
 
 using UnityEngine;
